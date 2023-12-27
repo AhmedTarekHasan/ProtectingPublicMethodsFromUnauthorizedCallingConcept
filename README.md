@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/protecting-public-methods-from-illogical-calls-in-net-c-91fcbb8bee33?sk=805de55bdb6e3145ec84d447994d54eb" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/protecting-public-methods-from-illogical-calls-in-net-c" />
 
 # Protecting Public Methods From Illogical Calls In .NET C#
 ### A full guide with code samples and explanation.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/14790/1*pGPDIXCumwp5JgVIU0aX5g.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_338b4e0e52174dd68c2bed50873ce20d~mv2.png/v1/fill/w_925,h_618,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/488a99_338b4e0e52174dd68c2bed50873ce20d~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/protecting-public-methods-from-illogical-calls-in-net-c-91fcbb8bee33?sk=805de55bdb6e3145ec84d447994d54eb
+[Article]: https://www.developmentsimplyput.com/post/protecting-public-methods-from-illogical-calls-in-net-c
